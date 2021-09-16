@@ -16,3 +16,17 @@ server {
 }
 
 ```
+## Http --> https
+```
+apt-get update
+```
+```
+sudo apt-get install certbot
+```
+```
+apt-get install python-certbot-nginx
+```
+
+```
+certbot --nginx
+```
