@@ -30,3 +30,4 @@ apt-get install python-certbot-nginx
 ```
 certbot --nginx
 ```
+![Screenshot](https://user-images.githubusercontent.com/55792941/207835275-9186d71b-650c-403e-b60f-74a1b2d35f8b.png)
