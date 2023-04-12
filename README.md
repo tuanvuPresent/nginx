@@ -33,6 +33,8 @@ sudo apt-get install certbot
 ```
 ```
 apt-get install python-certbot-nginx
+OR
+apt-get install python3-certbot-nginx
 ```
 
 ```
